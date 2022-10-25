@@ -12,7 +12,6 @@ public class Car {
 
     public String manufactureCountry;
 
-
     public Car ( String brand, String model, float engineVolume, String color, int manufacturingYear,
                  String manufactureCountry){
 
